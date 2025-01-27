@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/JesseJames2002/osticket-prereqs/tree/main)
   - [osTicket: Post-Installation Configuration](https://github.com/JesseJames2002/osticketpostinstall/tree/main)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JesseJames2002/ticket-lifecycle/tree/main)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+- <b>Microsoft Azure</b>[
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JesseJames2002/config-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
